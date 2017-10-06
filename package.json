@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/ldn0x7dc/react-native-transformable-image#readme",
   "dependencies": {
-    "react-native-view-transformer": "0.0.28"
+    "prop-types": "^15.6.0",
+    "react-native-view-transformer": "https://github.com/PedroLourenco/react-native-view-transformer/tarball/f2c57fedb2283e5c1dccb26c9e8fe9885fa60ed8"
   }
 }
